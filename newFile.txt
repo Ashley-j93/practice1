@@ -3,6 +3,11 @@ This is a new file.
 Add a new file before creating new branch.
 
 
+********From testBranch
+(Adding info after adding testBranch.)
+
 
 ****
 This is a new line created on the master branch (this is after adding a line on the testBranch)
+
+
